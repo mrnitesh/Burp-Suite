@@ -1,0 +1,23 @@
+Setting Temporary Path
+
+SET PATH=C:\Program Files\Java\jre1.8.0_261\bin
+
+Setting the permanent path
+
+Step 1: Go to my computer or my pc 
+
+Step 2: Right-click Go to Properties
+
+step 3: Click on Advanced System Settings
+
+Step 4: Click on Advanced Tab
+
+Step 5: Click on Environment variable
+
+Step 6: Click on the New tab in the User variable
+
+Step 7: Assign value JAVA_HOME to variable Name
+
+Step 8 : Assign C:\Program Files\Java\jre1.8.0_261\bin to variable value 
+
+Step 9: Click OK Button
